@@ -1,1 +1,1 @@
-# Pyhton code that select giveaway winners
+# Pyhton code that selects giveaway winners
